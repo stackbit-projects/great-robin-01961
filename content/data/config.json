@@ -84,5 +84,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://great-robin-01961.netlify.app"
 }
